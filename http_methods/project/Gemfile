@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+# setup add gem to http methods
+gem "rest-client"
