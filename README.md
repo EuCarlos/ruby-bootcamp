@@ -11,9 +11,9 @@ Repository dedicated to studies related to Ruby language, here it is stored basi
 
 - [x] Algorithms
 - [x] HTTP methods
-- [ ] 100 hand-on exercises
+- [x] 100 hand-on exercises
     - [x] Ruby basics
     - [x] Easy level
     - [x] Medium level
-    - [ ] Hard level
-    - [ ] Expert level
+    - [x] Hard level
+    - [x] Expert level
